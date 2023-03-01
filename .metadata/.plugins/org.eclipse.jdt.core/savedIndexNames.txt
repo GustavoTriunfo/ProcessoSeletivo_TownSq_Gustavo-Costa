@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Gustavo Costa\Desktop\Projeto TownSq-Gustavo Costa\.metadata\.plugins\org.eclipse.jdt.core
+2352840393.index
+1865797976.index
+1487090904.index
